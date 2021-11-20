@@ -1,0 +1,11 @@
+4kb
+4096 bytes
+
+8 planten
+
+256 bytes per planten
+namePlant[0;127]
+isValid[128;160]
+firstRegistered[160;191]
+timeLastWatered[192;223]
+intervalWatering[224;255] 
